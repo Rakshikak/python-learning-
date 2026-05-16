@@ -1,0 +1,31 @@
+a = 1
+print (a)
+b = "Rakshik"
+print (b)
+a = "1"
+b = "2"
+print(a+b)
+a = 1
+b = 2
+print(a+b)
+a = "20"
+b = "19"
+print(a+b)
+a = 19
+b = 20
+print(a + b)
+a=input("Enter your name")
+print("my name is",a)
+b = input ("Enter your age")
+print("my age is ",b)
+x = input ("Enter first name")
+y = input ("Enter second name")
+print(x+y)
+print("Hello Bro")
+a = int(input("Enter a first number"))
+b = int(input("Enter a second number"))
+c = int(input("Enter a third number"))
+print("The sum is =",a+b+c)
+print("The division is=", a/b/c)
+print("The multiple is=", a*b*c)
+print("Thanks")
